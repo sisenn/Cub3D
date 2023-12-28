@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "minilibx_opengl_20191021",
+			"path": "../minilibx_opengl_20191021"
+		},
+		{
+			"name": "cub3D",
+			"path": "."
+		},
+		{
+			"name": "libft",
+			"path": "../libft"
+		}
+	],
+	"settings": {}
+}
